@@ -7,7 +7,7 @@
   "url": "https://www.mediawiki.org/wiki/User:Czz4188/Skin:MEGSKURN",
   "descriptionmsg": "Developed for miraheze backrooms Chinese firstly.",
   "namemsg": "MEGSKURN",
-  "license-name": "CC BY-NC-SA 4.0",
+  "license-name": "CC BY-SA 4.0",
   "type": "skin",
   "requires": {
     "MediaWiki": ">= 1.41.0"
