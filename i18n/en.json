@@ -1,10 +1,10 @@
 {
-	"@metadata": {
-		"authors": [
-			"..."
-		]
-	},
-	"skinname-example": "Example",
-	"example-skin-desc": "An example skin showcasing the best practices",
-	"example-no-categories": "No categories"
+  "@metadata": {
+    "authors": [
+      "..."
+    ]
+  },
+  "skinname-example": "MEGSKUNR",
+  "example-skin-desc": "Self-made skin for miraheze backrooms CN",
+  "example-no-categories": "No categories"
 }
